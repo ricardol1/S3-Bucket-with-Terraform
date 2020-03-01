@@ -1,2 +1,2 @@
 # S3 Bucket with Terraform
-Creation of a simple infrastructure on AWS using Terraform
+Creation of a S3 Bucket on AWS using Terraform
