@@ -19,5 +19,3 @@ resource "aws_s3_bucket" "tf_code" {
 
 
 
-Access key ID,Secret access key
-AKIA5OZNH2CBR5YMIO4H,MmkfGxplxdiNA46K7WFh8ibbJu4Xg6aI4mh/Hpuh
